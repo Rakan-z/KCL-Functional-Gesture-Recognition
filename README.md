@@ -29,4 +29,4 @@ A guide to the project files.
 
 GUI_init.py
 -
-The program used to build the GUI to demo the model.
+The program used to find screen coordinates for pyautoguiFunctions.py.
