@@ -25,6 +25,7 @@ The program which determines where the automated cursor clicks are called on the
 
 README.txt
 -
+A guide to the project files.
 
 GUI_init.py
 -
